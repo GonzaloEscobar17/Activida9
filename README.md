@@ -7,7 +7,7 @@
 <p>Estudiante: Gonzalo Franch Escobar</p>
 
 <br>
-<a href="https://GonzaloEscobar17.github.io/Activida9/index.html/">Link pagina</a>
+<a href="https://gonzaloescobar17.github.io/Activida9/">Link pagina</a>
 
 <h2>Punto 2: html </h2>
 <img src="./images/html.png" alt="html">
