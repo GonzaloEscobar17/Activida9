@@ -1,0 +1,30 @@
+nav {
+    background-color: rgba(93, 52, 109, 0.589);
+    text-align: center;
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: #0026fc;
+  }
+  
