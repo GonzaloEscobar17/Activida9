@@ -1,5 +1,4 @@
 # Activida9
-<h1>Actvidad 9</h1>
 <hr>
 
 <h2>Información</h2>
