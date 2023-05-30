@@ -4,10 +4,10 @@
 <h2>Información</h2>
 <p>Curso: Full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
-<p>Estudiante: Gonzalo Franch Escobar/p>
+<p>Estudiante: Gonzalo Franch Escobar</p>
 
 <br>
-<a href="https://saul-guerrero.github.io/Activida9/">Link pagina</a>
+<a href="https://GonzaloEscobar17.github.io/Activida9/">Link pagina</a>
 
 <h2>Punto 2: html </h2>
 <img src="./images/html.png" alt="html">
