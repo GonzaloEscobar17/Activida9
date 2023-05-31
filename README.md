@@ -8,6 +8,7 @@
 
 <br>
 <a href="https://gonzaloescobar17.github.io/Activida9/">Link pagina</a>
+<br>
 <a href="https://www.figma.com/file/G0BcIyp8uejFRXDLvWreNs/Figma--Gonzalo-Franch-Escobar?type=design&t=raZN5Uhor2MRYRz7-6">Figma</a>
 <h2>Punto 2: html </h2>
 <img src="./images/html.png" alt="html">
